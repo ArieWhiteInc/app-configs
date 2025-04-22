@@ -1,8 +1,14 @@
 {
-    "launcher":{
+    "launcher": {
         "version":"0.0.5"
     },
     "modpack":{
         "version":"0.0.0"
+    },
+    "settings":{
+        "global_url":"https://raw.githubusercontent.com/ArieWhiteInc/app-configs/refs/heads/main/global.json"
+    },
+    "minecraft":{
+        "version":"1.21"
     }
 }
